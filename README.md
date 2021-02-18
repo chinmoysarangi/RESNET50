@@ -18,6 +18,6 @@ This is a project to showcase a RESNET50 neural network for Flower identificatio
 
 9. After running above command, the script is executed and a link which comes up for clicking: http://127.0.0.1:5000/ This link hosts the web app.
 
-10. Clcicking on the link opens the web app, upload flower images for identification.
+10. Clicking on the link opens the web app, upload flower images for identification.
 
 11. When done, come back to the IDE terminal and use Ctrl+C to end the flask session run.
