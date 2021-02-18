@@ -1,6 +1,15 @@
 This is a project to showcase a RESNET50 neural network for Flower identification via a Flask inteface, which is hosted on Azure Web Services.
 
+Tools Used:
+
+1. Jupyter Notebook: Model Creation
+2. Visual Studio Code: Flask App Creation
+3. Git Bash: For version control and pushing commits to Azure Web Service for app deployment
+4. Azure Cloud: Web App Hosting
+
 It detects 5 Flowers: Daisy, Dandelion, Rose, Sunflower and Tulips.
+
+Steps to run Flask app locally:
 
 1. Download the Kaggle Dataset from: https://www.kaggle.com/alxmamaev/flowers-recognition
 
