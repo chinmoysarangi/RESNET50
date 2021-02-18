@@ -1,0 +1,8 @@
+Werkzeug
+Flask
+numpy==1.19.2
+Keras
+gevent
+pillow
+h5py==2.10.0
+tensorflow
